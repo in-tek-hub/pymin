@@ -10,12 +10,12 @@
 
 > At this point, it's just a baby python
 
-> I am a very Lazy person (not just a Lazy Administrator). So Progress will be slow, but soon enough to last for a while
+> It's under construction, so please excuse our dust ;-)
 
 
 ## Table of Contents (Optional)
 
-> If your `README` has a lot of info, section headers might be nice.
+> Hop between `README` section headers for specifics.
 
 - [Installation](#installation)
 - [Features](#features)
@@ -78,28 +78,20 @@
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="https://github.com/joanaz/HireDot2/compare/" target="_blank">`https://github.com/joanaz/HireDot2/compare/`</a>.
+- 🔃 Create a new pull request using <a href="https://github.com/in-tek-hub/pymin/pull/new/development" target="_blank">`https://github.com/in-tek-hub/pymin/pull/new/development`</a>.
 
 ---
 
 ## Team
 
 > Or Contributors/People
-
-| <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> |
-| :---: |:---:| :---:|
-| [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)    | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)  |
-| <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> |
-
-- You can just grab their GitHub profile image URL
-- You should probably resize their picture using `?s=200` at the end of the image URL.
+*TBD
 
 ---
 
 ## FAQ
 
-- **How do I do *specifically* so and so?**
-    - No problem! Just do this.
+TBD
 
 ---
 
@@ -107,18 +99,15 @@
 
 Reach out to me at one of the following places!
 
-- Website at <a href="http://fvcproductions.com" target="_blank">`fvcproductions.com`</a>
-- Twitter at <a href="http://twitter.com/fvcproductions" target="_blank">`@fvcproductions`</a>
-- Insert more social links here.
+- Website at <a href="https://in-tech-hub.blogspot.com/" target="_blank">`hin-tech-hub.blogspot.com`</a>
+- Twitter at <a href="http://twitter.com/MrChoudhury" target="_blank">`@fvcproductions`</a>
+
 
 ---
 
 ## Donations (Optional)
 
-- You could include a <a href="https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png" target="_blank">Gratipay</a> link as well.
-
-[![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png)](https://gratipay.com/fvcproductions/)
-
+Right now the best donation you can give me are feedback, ideas, and perhaps some of your favorite python based scripts that help you accomplish quick or long jobs efficiently. 
 
 ---
 
